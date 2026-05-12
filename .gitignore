@@ -1,0 +1,46 @@
+# Unreal Engine generated directories
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Project-local temporary data
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj/
+*.xcworkspace/
+
+# Build outputs and debug symbols
+*.app
+*.dSYM/
+*.dll
+*.dylib
+*.exe
+*.lib
+*.obj
+*.pdb
+*.so
+
+# Automation and crash output
+AutomationTool/
+CrashReportClient/
+Profiling/
+
+# IDE/editor state
+.idea/
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and transient files
+*.log
+*.tmp
+*.temp
